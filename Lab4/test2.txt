@@ -1,0 +1,28 @@
+Class Material: File Transfer Using Sockets
+
+Overview of File Transfer with TCP Sockets
+    1. Server Responsibilities:
+        ◦ Listen for incoming connections.
+        ◦ Accept a client connection.
+        ◦ Receive a file from the client in chunks.
+        ◦ Save the file locally.
+    2. Client Responsibilities:
+        ◦ Connect to the server.
+        ◦ Specify the file to upload.
+        ◦ Send the file in chunks to the server.
+        ◦ Notify the server when the transfer is complete.
+
+How Does It Work?
+    1. Server Initialization:
+        ◦ Create a socket and bind it to a port.
+        ◦ Listen for client connections.
+        ◦ Accept a connection and handle data transmission.
+    2. Client Communication:
+        ◦ Establish a connection to the server.
+        ◦ Send the file name and file data.
+        ◦ Inform the server when the file transfer is complete.
+    3. File Transfer Workflow:
+        ◦ The client reads the file in chunks and sends each chunk to the server.
+        ◦ The server receives the chunks and writes them to a local file.
+        ◦ A special marker (EOF) indicates the end of the file transfer.
+
