@@ -1,0 +1,14 @@
+[2026-01-15 09:41:33] arman1 joined the chat.
+[2026-01-15 09:41:51] arman2 joined the chat.
+[2026-01-15 09:41:59] arman1: hello
+[2026-01-15 09:42:06] arman2: hello from arman2
+[2026-01-15 09:43:38] arman1 left the chat.
+[2026-01-15 09:43:50] arman3 joined the chat.
+[2026-01-15 09:49:26] arman3 joined the chat.
+[2026-01-15 09:49:35] arman4 joined the chat.
+[2026-01-15 09:49:46] arman3: hello
+[2026-01-15 09:49:52] arman4: hello
+[2026-01-15 09:50:55] arman5 joined the chat.
+[2026-01-15 09:51:08] arman5 left the chat.
+[2026-01-15 09:51:12] arman3 left the chat.
+[2026-01-15 09:51:14] arman4 left the chat.
